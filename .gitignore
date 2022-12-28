@@ -1,4 +1,5 @@
 .idea
-blender
+.blender
+.codePython
 Pokemon
 node_modules
